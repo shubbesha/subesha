@@ -7,7 +7,7 @@ Hi! I'm a passionate learner of Data Science and AI tools. Some of my practice n
 ### Contact
 
 - Email: [subesha.sasmal@gmail.com](mailto:subesha.sasmal@gmail.com)
-- LinkedIn: [linkedin.com/in/subesha](https://www.linkedin.com/in/subesha/)
+- LinkedIn: [linkedin.com/in/subesha](https://www.linkedin.com/in/shubbesha/)
 
 <!--
 
